@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "author": "Robin Nunkesser",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 20, "left": 50, "attrs": {} }
+  ],
+  "connections": [
+  ]
+}
